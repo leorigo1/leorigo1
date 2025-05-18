@@ -7,7 +7,7 @@
 
 
 
-### Linguagens e tecnologias:
+### Tecnologias que utilizo:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -16,9 +16,12 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
-
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![ARDUINO](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ELECTRON](https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
 ![ANYDESK](https://img.shields.io/badge/AnyDesk-EF443B.svg?style=for-the-badge&logo=AnyDesk&logoColor=white)
+
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leorigo1&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leorigo1&langs_count=8)
