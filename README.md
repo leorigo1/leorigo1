@@ -21,6 +21,7 @@
 ![ARDUINO](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ELECTRON](https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white)
 ![ANYDESK](https://img.shields.io/badge/AnyDesk-EF443B.svg?style=for-the-badge&logo=AnyDesk&logoColor=white)
+![DISCORD](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leorigo1&show_icons=true&theme=tokyonight)
 
