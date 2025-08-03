@@ -1,5 +1,5 @@
 ## Olá, eu sou o Leonardo Rigo 👋
-#### Estudante de Ciência da computação na Universidade Regional Integrada - URI Erechim / 1° Semestre  2025-2029
+#### Estudante de Ciência da computação na Universidade Regional Integrada - URI Erechim / 2° Semestre  2025-2029
 
 ### Redes sociais:
 
